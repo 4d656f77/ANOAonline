@@ -6,8 +6,6 @@
 
 [ANOA Gameplay Trailer (ANOA ONLINE) - YouTube](https://www.youtube.com/watch?v=_oR7GiLQZJE)
 
-
-
 ### 기간/인원/역할
 
    2022. 10. 11 ~ 2022. 11. 25(7주)
@@ -18,10 +16,28 @@
 
 ![architectrue](https://github.com/4d656f77/ANOAonline/blob/master/images/architecture.png?raw=true)
 
-
-
 ### 구현 서비스 설명
 
 [ANOA ONLINE - ANOA](https://anoa.gitbook.io/anoa-online/anoa/anoa-online)
 
 ### 배운점
+
+
+
+### 코드
+
+GameMode
+
+![GameMode](https://github.com/4d656f77/ANOAonline/blob/master/images/GameMode.png?raw=true)
+
+GameState
+
+![GameState](https://github.com/4d656f77/ANOAonline/blob/master/images/GameState.png?raw=true)
+
+PlayerController
+
+![PlayerController](https://github.com/4d656f77/ANOAonline/blob/master/images/PlayerController.png?raw=true)
+
+socket
+
+![socket](https://github.com/4d656f77/ANOAonline/blob/master/images/socket.png?raw=true)
